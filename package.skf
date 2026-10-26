@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-base64"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Кодирование и декодирование Base64 (включая URL-safe)."
+    репозиторий = "github.com/skytech-alt/skyforge-base64"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
